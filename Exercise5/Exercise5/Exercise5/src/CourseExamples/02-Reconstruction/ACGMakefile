@@ -1,0 +1,14 @@
+#==  SYSTEM PART -- DON'T TOUCH  ==============================================
+include $(ACGMAKE)/Config
+#==============================================================================
+
+
+SUBDIRS   := $(call find-subdirs)
+PACKAGES  := gmm 
+PROJ_LIBS := IsoEx/Grids IsoEx/Extractors IsoEx/Math OpenMesh/Core
+MODULES   := cxx
+
+
+#==  SYSTEM PART -- DON'T TOUCH  ==============================================
+include $(ACGMAKE)/Rules
+#==============================================================================

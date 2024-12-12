@@ -1,0 +1,14 @@
+{
+  "FileVersion": 2,
+  "Id": "984d1af7-c777-473e-989a-8570d011e5b2",
+  "Items": [
+    {
+      "Id": "b6f39f86-9a84-4413-8a70-836d1de73511",
+      "Command": "2.0 \"C:\\Users\\Xiang Gao\\Desktop\\cs468\\Exercise5\\Exercise5\\Exercise5\\max.off\" \"C:\\Users\\Xiang Gao\\Desktop\\cs468\\Exercise5\\Exercise5\\Exercise5\\max_regular.off\""
+    },
+    {
+      "Id": "b5530919-a2ed-4800-b4a2-4f7b4c0845df",
+      "Command": "2.0 \"C:\\Users\\Xiang Gao\\Desktop\\cs468\\Exercise5\\Exercise5\\Exercise5\\bunny.off\" \"C:\\Users\\Xiang Gao\\Desktop\\cs468\\Exercise5\\Exercise5\\Exercise5\\bunny_regular.off\""
+    }
+  ]
+}

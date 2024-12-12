@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>2.0 "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max.off" "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max_regular.off"</LocalDebuggerCommandArguments>
+    <RemoteDebuggerCommandArguments>2.0 "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max.off" "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max_regular.off"</RemoteDebuggerCommandArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>2.0 "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max.off" "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max_regular.off"</LocalDebuggerCommandArguments>
+    <RemoteDebuggerCommandArguments>2.0 "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max.off" "C:\Users\Xiang Gao\Desktop\cs468\Exercise5\Exercise5\Exercise5\max_regular.off"</RemoteDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>
